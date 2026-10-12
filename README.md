@@ -28,13 +28,16 @@
 </div>
 
 <div align="center">
-  <h2>GITHUB SNAPSHOT</h2>
-  <a href="https://github.com/agora17590-netizen">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=agora17590-netizen&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B1220&title_color=67E8F9&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub profile statistics" />
-  </a>
-  <a href="https://github.com/agora17590-netizen">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agora17590-netizen&layout=compact&hide_border=true&langs_count=6&bg_color=0B1220&title_color=67E8F9&text_color=C9D1D9" alt="Most used public programming languages" />
-  </a>
+  <h2>THE BUILD LOOP</h2>
+  <table>
+    <tr>
+      <td align="center" width="33%"><strong>01 &nbsp; EXPLORE</strong><br />Understand the problem and how it really works.</td>
+      <td align="center" width="33%"><strong>02 &nbsp; BUILD</strong><br />Turn the idea into a practical tool.</td>
+      <td align="center" width="33%"><strong>03 &nbsp; REFINE</strong><br />Test, learn, and make the next iteration better.</td>
+    </tr>
+  </table>
+  <br />
+  <a href="https://github.com/agora17590-netizen?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore my repositories" /></a>
 </div>
 
 <br />
