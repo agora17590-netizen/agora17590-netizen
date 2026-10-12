@@ -1,23 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,45:102A43,100:06B6D4&height=245&section=header&text=MIRON%20DIMITRIE&fontSize=52&fontColor=F8FAFC&fontAlignY=36&desc=SOFTWARE%20%E2%80%A2%20AUTOMATION%20%E2%80%A2%20GAME%20TOOLING&descAlignY=59&descSize=14&animation=fadeIn" alt="Miron Dimitrie — Software, automation, game tooling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,45:102A43,100:06B6D4&height=245&section=header&text=MIRON%20DIMITRIE&fontSize=52&fontColor=F8FAFC&fontAlignY=36&desc=INFORMATICS%20STUDENT%20%E2%80%A2%20UNIVERSITY%20OF%20BUCHAREST&descAlignY=59&descSize=14&animation=fadeIn" alt="Miron Dimitrie — Informatics student at the University of Bucharest" />
   <br />
-  <a href="https://github.com/agora17590-netizen"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=Building+useful+things%2C+one+iteration+at+a+time.;Bots%2C+automation%2C+and+tools+that+make+life+easier." alt="A short introduction" /></a>
+  <a href="https://github.com/agora17590-netizen"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=Informatics+student+at+the+University+of+Bucharest.;Learning%2C+building%2C+and+exploring+new+ideas." alt="A short introduction" /></a>
   <br /><br />
+  <img src="https://img.shields.io/badge/C%2B%2B-0B1220?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/PYTHON-0B1220?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-0B1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/NODE.JS-0B1220?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/DISCORD.JS-0B1220?style=for-the-badge&logo=discord&logoColor=7289DA" alt="Discord.js" />
-  <img src="https://img.shields.io/badge/PLAYWRIGHT-0B1220?style=for-the-badge&logo=playwright&logoColor=45BA4B" alt="Playwright" />
 </div>
 
 <br />
 
 <div align="center">
   <h2>ABOUT</h2>
-  <p>I'm a developer focused on <strong>JavaScript</strong> and <strong>Node.js</strong>, building bots and practical automation. I like making complex, repetitive workflows simpler—and learning by shipping real projects.</p>
+  <p>I'm an <strong>Informatics student at the University of Bucharest</strong> in Bucharest, Romania. I'm interested in programming, automation, bots, and learning how things work by building practical projects.</p>
 </div>
 
 <div align="center">
-  <h2>WHAT I'M INTO</h2>
+  <h2>LANGUAGES & INTERESTS</h2>
+  <p><strong>C++ · Python · JavaScript · Node.js</strong></p>
   <table>
     <tr>
       <td align="center" width="33%"><strong>⚙️ Automation</strong><br />Tools that take care of repetitive work.</td>
