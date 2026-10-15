@@ -4,21 +4,28 @@
   <a href="https://github.com/agora17590-netizen"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=Informatics+student+at+the+University+of+Bucharest.;Learning%2C+building%2C+and+exploring+new+ideas." alt="A short introduction" /></a>
   <br /><br />
   <img src="https://img.shields.io/badge/C%2B%2B-0B1220?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/PYTHON-0B1220?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-0B1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/NODE.JS-0B1220?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
 </div>
 
+
+
+
 <br />
+
+
+
 
 <div align="center">
   <h2>ABOUT</h2>
   <p>I'm an <strong>Informatics student at the University of Bucharest</strong> in Bucharest, Romania. I'm interested in programming, automation, bots, and learning how things work by building practical projects.</p>
 </div>
 
+
+
+
 <div align="center">
   <h2>LANGUAGES & INTERESTS</h2>
-  <p><strong>C++ · Python · JavaScript · Node.js</strong></p>
+  <p><strong>C++ · JavaScript</strong></p>
   <table>
     <tr>
       <td align="center" width="33%"><strong>⚙️ Automation</strong><br />Tools that take care of repetitive work.</td>
@@ -27,6 +34,9 @@
     </tr>
   </table>
 </div>
+
+
+
 
 <div align="center">
   <h2>THE BUILD LOOP</h2>
@@ -41,7 +51,13 @@
   <a href="https://github.com/agora17590-netizen?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore my repositories" /></a>
 </div>
 
+
+
+
 <br />
+
+
+
 
 <div align="center">
   <sub>Curious by default. Better with every build.</sub>
